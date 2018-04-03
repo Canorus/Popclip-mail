@@ -12,20 +12,7 @@
 			<key>Long Running</key>
 			<true/>
 			<key>Title</key>
-			<string>Emailb1</string>
-		</dict>
-	</array>
-	<key>Apps</key>
-	<array>
-		<dict>
-			<key>Bundle Identifier</key>
-			<string>me.canor.mailb1</string>
-			<key>Check Installed</key>
-			<true/>
-			<key>Link</key>
-			<string>https://canor.cf</string>
-			<key>Name</key>
-			<string>Mailb1</string>
+			<string>mail</string>
 		</dict>
 	</array>
 	<key>Extension Description</key>
@@ -33,7 +20,7 @@
 	<key>Extension Identifier</key>
 	<string>me.canor.mailb1</string>
 	<key>Extension Name</key>
-	<string>Mailb1</string>
+	<string>mail</string>
 	<key>Required Software Version</key>
 	<integer>2</integer>
 </dict>
