@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>AppleScript File</key>
-			<string>mail.scpt</string>
+			<string>mail.applescript</string>
 			<key>Image File</key>
 			<string>envelopeicon.png</string>
 			<key>Long Running</key>
